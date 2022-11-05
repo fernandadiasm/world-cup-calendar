@@ -1,5 +1,4 @@
 <h1 align="center"> Calendário da Copa do mundo </h1>
-<p align="center">🚧Em construção...🚧</p>
 
 <p align="center">
   <img alt="rocketpay" src=".github/preview.png" width="70%">
@@ -19,7 +18,7 @@
 
 ## 👩🏻‍💻 Projeto
 <p>
-Calendário dos jogos que irão acontecer na Copa do Mundo!
+Calendário dos jogos que irão acontecer durante a Copa do Mundo!
 </p>
 
 [🔗 É possível acessar o projeto clicando aqui! ⚽](https://fernandadiasm.github.io/world-cup-calendar/)
